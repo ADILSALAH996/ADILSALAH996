@@ -1,5 +1,5 @@
-# 💫 About Me:
-🎓 Currently studying BCA (Bachelor of Computer Applications)  <br>💻 Interested in Python, SQL and Software Development  <br>🌱 Currently learning Backend Development and Database Design  <br>🚀 Building beginner projects to improve my skills  <br>📫 Open to internships and collaboration opportunities
+# About Me:
+ Currently studying BCA (Bachelor of Computer Applications)  <br> Interested in Python, SQL and Software Development  <br> Currently learning Backend Development and Database Design  <br> Building beginner projects to improve my skills  <br> Open to internships and collaboration opportunities
 
 
 ## 🌐 Socials:
